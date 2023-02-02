@@ -1,1 +1,2 @@
-My first readme
+# ALX-pre_course
+## Learning new things.
